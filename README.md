@@ -1,4 +1,4 @@
-# hello-word
+# hello-world
 
 Olá,
 Sou a Isabella gosto de livros, filmes e músicas que proporcionem aprendizado.
